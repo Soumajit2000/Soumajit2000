@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soumajit2000
+- 👋 Hi, I’m Soumajit
 - 👀 I’m interested in Cloud
 - 🌱 I’m currently working at IBM
 - 💞️ I’m looking to collaborate on projects related to new tech
